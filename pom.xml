@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>es.nangel.ermodel.model</groupId>
-    <artifactId>model-all</artifactId>
+    <artifactId>all</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
         <dependency>
-            <groupId>es.nangel.ermodel</groupId>
-            <artifactId>parser</artifactId>
+            <groupId>es.nangel.ermodel.model</groupId>
+            <artifactId>java</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
